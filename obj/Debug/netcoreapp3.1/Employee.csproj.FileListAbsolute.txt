@@ -1,0 +1,4 @@
+C:\Users\ayode\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+C:\Users\ayode\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\Users\ayode\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\Users\ayode\source\repos\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
